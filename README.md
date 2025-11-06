@@ -4,4 +4,4 @@
 安装相关依赖。
 
 
-run：python run batch_approve_base_mt.py
+run：python batch_approve_base_mt.py
