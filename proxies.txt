@@ -1,1 +1,1 @@
-
+eg:http://<username>:<password>@<ip>:<port>
